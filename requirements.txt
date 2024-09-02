@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+pickle5  # Pickle is built-in, but this is for compatibility in some cases
+plotly
+streamlit-extras
